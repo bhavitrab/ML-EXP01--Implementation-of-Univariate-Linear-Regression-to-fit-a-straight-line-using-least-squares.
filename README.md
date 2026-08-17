@@ -5,20 +5,28 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 <h3>Equipments Required:</h3>
 1.Hardware – PCs
+
 2.Anaconda – Python 3.7 Installation / Jupyter notebook
 
 <h3>Algorithm</h3>
 1.Get the independent variable X and dependent variable Y.
+
 2.Calculate the mean of the X -values and the mean of the Y -values.
+
 3.Find the slope m of the line of best fit using the formula.
+
 <img width="487" height="110" alt="image" src="https://github.com/user-attachments/assets/22eb7bbf-ab4a-419d-b389-e0d20cbfe226" />
 
 
 4. Compute the y -intercept of the line by using the formula:
+   
 <img width="412" height="61" alt="image" src="https://github.com/user-attachments/assets/eb554420-3f50-4b57-8288-c2286564986a" />
 
 
-6. Use the slope m and the y -intercept to form the equation of the line. 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
+5. Use the slope m and the y -intercept to form the equation of the line.
+   
+6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
+   
 <h3>Program and Output:</h3>
 
 /*
